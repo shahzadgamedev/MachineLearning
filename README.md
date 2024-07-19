@@ -1,2 +1,6 @@
 # MachineLearning
-Learning Machine Learning using Python
+My Journey Learning ML using Python
+
+### Supervised Learning
+- Linear Regression
+  * Salary Example (Basic input to output)
