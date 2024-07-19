@@ -1,5 +1,4 @@
-﻿import numpy as np
-
+﻿
 
 def model(input_x, weight, bias):
     return input_x * weight + bias
