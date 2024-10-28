@@ -11,3 +11,8 @@ My Journey Learning ML with Coursera's Machine Learning Course by Andrew Ng
 - [Python Implementation of Neural Network](NeuralNetwork/PythonNeuralNet.py) (Simple Dense Layer)
 - [Binary Digit (0 & 1) Recognition using Neural Network](NeuralNetwork/Tensorflow%20Binary%20Digit%20Recognition.ipynb) (using filtered MNIST Dataset of 0 & 1)
 - [Full Digit Recognition using Neural Network](NeuralNetwork/MultiClass%20Classification.ipynb) (using MNIST Dataset)
+
+
+### Unsupervised Learning
+- Clustering
+  * [K-Means Clustering](UnSupervisedLearning/KMeans/KMeansBasics.py) (Basic K-Means Clustering)
