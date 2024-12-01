@@ -16,3 +16,5 @@ My Journey Learning ML with Coursera's Machine Learning Course by Andrew Ng
 ### Unsupervised Learning
 - Clustering
   * [K-Means Clustering](UnSupervisedLearning/KMeans/KMeansBasics.py) (Basic K-Means Clustering)
+  * [K-Means Interactive](UnSupervisedLearning/KMeans/InteractiveGraph.py) (Interactive K-Means Clustering)
+  * [Clustering Countries](UnSupervisedLearning/KMeans/ClusteringCountries.ipynb) (Clustering Countries based on GDP & Life Expectancy)
